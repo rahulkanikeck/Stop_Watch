@@ -1,0 +1,33 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: skyblue;
+}
+.container{
+    text-align: center;
+}
+.result{
+    font-size: 3rem;
+    color: grey;
+    background: #fff;
+    padding: 30px 0;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.reult span{
+     width: 3rem;
+}
+.button butttons{
+     margin: 1rem;
+     border: none;
+     outline: none;
+     height: 100px;
+     width: 100px;
+     color: #1d2630;
+     font-weight: bold;
+     font-size: 16px;
+     border-radius: 3px;
+     cursor: pointer;
+}
